@@ -80,6 +80,42 @@ Streamlit prints a local URL, normally `http://localhost:8501`. Open that URL
 in a browser. Keep the terminal running while using the dashboard. Stop the
 server with `Ctrl+C`.
 
+### 2.1 Publish the live Streamlit application
+
+GitHub Pages URLs such as `https://<username>.github.io/CAMPUSCODE/` display
+static files and the README. They cannot run `app.py` or start a Streamlit
+server. To make the dashboard available online, deploy this repository with
+Streamlit Community Cloud:
+
+1. Push the project to GitHub.
+2. Open `https://share.streamlit.io` and sign in with GitHub.
+3. Select **New app**.
+4. Choose `ramyaveeramreddy2006-cloud/CAMPUSCODE`.
+5. Select branch `main`.
+6. Set **Main file path** to `app.py`.
+7. Open **Advanced settings** and add any required secrets:
+
+```toml
+GOOGLE_SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/<id>/export?format=csv"
+CODOLIO_API_TOKEN = "your-codolio-token"
+GITHUB_TOKEN = "your-github-token"
+```
+
+8. Select **Deploy**. Streamlit Cloud installs `requirements.txt` and provides
+       an `https://<app-name>.streamlit.app` URL.
+
+For later updates, run these commands from the folder containing `app.py`:
+
+```powershell
+git add .
+git commit -m "Update CampusCode dashboard"
+git push origin main
+```
+
+Streamlit Cloud redeploys automatically after the push. Keep passwords,
+tokens, and private student data in Streamlit secrets rather than committing
+them to GitHub.
+
 ### 3. Configure data before the first run
 
 At minimum, `usernames.csv` must contain these columns:
