@@ -906,7 +906,7 @@ migrated automatically to `mentee_status`.
 ## Runtime data layout
 
 ```text
-project/
+coding_platform_analytics_mentor_github/
 ├── app.py
 ├── usernames.csv
 ├── data/
