@@ -1,0 +1,11 @@
+email,username,roll_number,year,section,branch,codolio_handle,leetcode_handle,codeforces_handle,codechef_handle,gfg_handle,github_handle
+student01@university.edu,Arjun Reddy,23AIML001,III,A,AIML,arjun-reddy,arjun23,arjun_cf,arjun_cc,arjun_gfg,arjun-dev
+student02@university.edu,Bhavya Rao,23AIML002,III,A,AIML,bhavya-rao,bhavya23,bhavya_cf,bhavya_cc,bhavya_gfg,bhavya-dev
+student03@university.edu,Charan Kumar,23AIML003,III,A,AIML,charan-kumar,charan23,charan_cf,charan_cc,charan_gfg,charan-dev
+student04@university.edu,Divya Reddy,23AIML004,III,A,AIML,divya-reddy,divya23,divya_cf,divya_cc,divya_gfg,divya-dev
+student05@university.edu,Eshwar Rao,23AIML005,III,A,AIML,eshwar-rao,eshwar23,eshwar_cf,eshwar_cc,eshwar_gfg,eshwar-dev
+student06@university.edu,Fahad Khan,23AIML006,III,B,AIML,fahad-khan,fahad23,fahad_cf,fahad_cc,fahad_gfg,fahad-dev
+student07@university.edu,Gayathri Devi,23AIML007,III,B,AIML,gayathri-devi,gayathri23,gayathri_cf,gayathri_cc,gayathri_gfg,gayathri-dev
+student08@university.edu,Harsha Vardhan,23AIML008,III,B,AIML,harsha-vardhan,harsha23,harsha_cf,harsha_cc,harsha_gfg,harsha-dev
+student09@university.edu,Ishita Rao,23DS009,III,C,DS,ishita-rao,ishita23,ishita_cf,ishita_cc,ishita_gfg,ishita-dev
+student10@university.edu,Kiran Kumar,23DS010,III,C,DS,kiran-kumar,kiran23,kiran_cf,kiran_cc,kiran_gfg,kiran-dev

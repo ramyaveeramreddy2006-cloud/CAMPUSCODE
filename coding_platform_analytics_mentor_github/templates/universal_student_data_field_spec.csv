@@ -1,0 +1,13 @@
+field,label,description,status,input_type
+email,Institutional Email,Primary institutional identity,Required,Email
+username,Student Name,Official student name,Required,Short answer
+roll_number,Roll Number,Institutional roll number,Required,Short answer
+year,Year,Academic year,Required,Dropdown
+section,Section,Academic section,Required,Dropdown
+branch,Branch,Academic branch/program,Required,Dropdown
+codolio_handle,Codolio Handle,Public Codolio handle,Recommended,Short answer
+leetcode_handle,LeetCode Handle,Public LeetCode handle,Optional,Short answer
+codeforces_handle,Codeforces Handle,Public Codeforces handle,Optional,Short answer
+codechef_handle,CodeChef Handle,Public CodeChef handle,Optional,Short answer
+gfg_handle,GFG Handle,GeeksforGeeks handle,Optional,Short answer
+github_handle,GitHub Handle,Public GitHub username,Recommended,Short answer

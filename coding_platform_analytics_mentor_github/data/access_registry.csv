@@ -1,0 +1,14 @@
+login_id,password,display_name,role,email,roll_number,department
+admin@campuscode.edu,admin123,Main Authority,admin,admin@campuscode.edu,,
+mallikarjunareddyaiml@anurag.edu.in,hod123,Dr. A. Mallikarjuna Reddy,hod,mallikarjunareddyaiml@anurag.edu.in,,AIML
+shashankreddyaiml@anurag.edu.in,coord123,Shashank Reddy,faculty_coordinator,shashankreddyaiml@anurag.edu.in,,AIML
+padminiaiml@anurag.edu.in,coord123,Ch. Padmini,faculty_coordinator,padminiaiml@anurag.edu.in,,AIML
+anilkumar.aiml@anurag.edu.in,mentor123,Dr. Anil Kumar,mentor,anilkumar.aiml@anurag.edu.in,,AIML
+ramyaaiml@anurag.edu.in,studentcoord123,Ramya,student_coordinator,ramyaaiml@anurag.edu.in,,AIML
+abraraiml@anurag.edu.in,studentcoord123,Abrar,student_coordinator,abraraiml@anurag.edu.in,,AIML
+ganeshaiml@anurag.edu.in,studentcoord123,Ganesh,student_coordinator,ganeshaiml@anurag.edu.in,,AIML
+santhoshaiml@anurag.edu.in,studentcoord123,Santhosh,student_coordinator,santhoshaiml@anurag.edu.in,,AIML
+abhinavaiml@anurag.edu.in,studentcoord123,Abhinav,student_coordinator,abhinavaiml@anurag.edu.in,,AIML
+seethaaiml@anurag.edu.in,studentcoord123,Seetha,student_coordinator,seethaaiml@anurag.edu.in,,AIML
+placement@campuscode.edu,placement123,Placement Office,placement_officer,placement@campuscode.edu,,
+student@university.edu,student123,Student,student,student@university.edu,23CSE001,CSE

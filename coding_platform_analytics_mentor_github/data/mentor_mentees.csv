@@ -1,0 +1,11 @@
+mentor_id,mentor_name,mentor_email,student_email,roll_number,mentee_status,updated_at
+M001,Dr. Anil Kumar,anilkumar.aiml@anurag.edu.in,student01@university.edu,23AIML001,Active,2026-08-26
+M001,Dr. Anil Kumar,anilkumar.aiml@anurag.edu.in,student02@university.edu,23AIML002,Active,2026-08-26
+M002,Dr. Priya Sharma,priya.sharma@university.edu,student03@university.edu,23CSE003,Active,2026-08-26
+M002,Dr. Priya Sharma,priya.sharma@university.edu,student04@university.edu,23CSE004,Active,2026-08-26
+M003,Dr. Ravi Teja,ravi.teja@university.edu,student05@university.edu,23CSE005,Active,2026-08-26
+M003,Dr. Ravi Teja,ravi.teja@university.edu,student06@university.edu,23AIML006,Active,2026-08-26
+M004,Dr. Sneha Reddy,sneha.reddy@university.edu,student07@university.edu,23AIML007,Active,2026-08-26
+M004,Dr. Sneha Reddy,sneha.reddy@university.edu,student08@university.edu,23AIML008,Active,2026-08-26
+M001,Dr. Anil Kumar,anilkumar.aiml@anurag.edu.in,student09@university.edu,23DS009,Active,2026-08-26
+M002,Dr. Priya Sharma,priya.sharma@university.edu,student10@university.edu,23DS010,Active,2026-08-26
