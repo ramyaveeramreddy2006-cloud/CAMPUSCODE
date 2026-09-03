@@ -2463,5 +2463,150 @@
         "current_streak": 0
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-03T08:15:46.170357+00:00",
+    "records": [
+      {
+        "roll_number": "23AIML008",
+        "rank": 1,
+        "total_solved": 33,
+        "easy_solved": 19,
+        "medium_solved": 14,
+        "hard_solved": 0,
+        "rank_score": 782.5,
+        "leetcode_rating": 1443,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      },
+      {
+        "roll_number": "23AIML007",
+        "rank": 2,
+        "total_solved": 3,
+        "easy_solved": 2,
+        "medium_solved": 1,
+        "hard_solved": 0,
+        "rank_score": 5.0,
+        "leetcode_rating": 0,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      },
+      {
+        "roll_number": "23AIML005",
+        "rank": 3,
+        "total_solved": 1,
+        "easy_solved": 1,
+        "medium_solved": 0,
+        "hard_solved": 0,
+        "rank_score": 1.0,
+        "leetcode_rating": 0,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      },
+      {
+        "roll_number": "23AIML001",
+        "rank": 4,
+        "total_solved": 0,
+        "easy_solved": 0,
+        "medium_solved": 0,
+        "hard_solved": 0,
+        "rank_score": 0.0,
+        "leetcode_rating": 0,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      },
+      {
+        "roll_number": "23AIML002",
+        "rank": 5,
+        "total_solved": 0,
+        "easy_solved": 0,
+        "medium_solved": 0,
+        "hard_solved": 0,
+        "rank_score": 0.0,
+        "leetcode_rating": 0,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      },
+      {
+        "roll_number": "23AIML003",
+        "rank": 6,
+        "total_solved": 0,
+        "easy_solved": 0,
+        "medium_solved": 0,
+        "hard_solved": 0,
+        "rank_score": 0.0,
+        "leetcode_rating": 0,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      },
+      {
+        "roll_number": "23AIML004",
+        "rank": 7,
+        "total_solved": 0,
+        "easy_solved": 0,
+        "medium_solved": 0,
+        "hard_solved": 0,
+        "rank_score": 0.0,
+        "leetcode_rating": 0,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      },
+      {
+        "roll_number": "23AIML006",
+        "rank": 8,
+        "total_solved": 0,
+        "easy_solved": 0,
+        "medium_solved": 0,
+        "hard_solved": 0,
+        "rank_score": 0.0,
+        "leetcode_rating": 0,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      },
+      {
+        "roll_number": "23DS009",
+        "rank": 9,
+        "total_solved": 0,
+        "easy_solved": 0,
+        "medium_solved": 0,
+        "hard_solved": 0,
+        "rank_score": 0.0,
+        "leetcode_rating": 0,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      },
+      {
+        "roll_number": "23DS010",
+        "rank": 10,
+        "total_solved": 0,
+        "easy_solved": 0,
+        "medium_solved": 0,
+        "hard_solved": 0,
+        "rank_score": 0.0,
+        "leetcode_rating": 0,
+        "codeforces_rating": 0,
+        "codechef_rating": 0,
+        "active_days": 0,
+        "current_streak": 0
+      }
+    ]
   }
 ]
