@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-03T08:15:46.170357+00:00",
+  "last_updated": "2026-09-04T08:10:36.274453+00:00",
   "total_students": 10,
   "source_status": {
     "usernames.csv": "loaded:10",
@@ -28,25 +28,63 @@
       "medium_solved": 14,
       "hard_solved": 0,
       "leetcode_rating": 1443,
-      "codeforces_rating": 0,
+      "codeforces_rating": 748,
       "codechef_rating": 0,
       "contest_rating": 1443,
       "active_days": 0,
       "current_streak": 0,
       "leetcode_score": 782.5,
-      "codeforces_score": 0.0,
+      "codeforces_score": 374.0,
       "codechef_score": 0.0,
       "gfg_score": 0.0,
       "codolio_score": 0.0,
       "best_platform_score": 782.5,
-      "average_platform_score": 782.5,
+      "average_platform_score": 578.25,
       "rank_score": 782.5,
       "github_public_repos": 0,
       "github_followers": 0,
       "rank": 1,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-03T08:15:12.784505+00:00"
+      "last_synced": "2026-09-04T08:10:31.921848+00:00"
+    },
+    {
+      "email": "student04@university.edu",
+      "username": "Divya Reddy",
+      "roll_number": "23AIML004",
+      "year": "III",
+      "section": "A",
+      "branch": "AIML",
+      "codolio_handle": "divya-reddy",
+      "leetcode_handle": "divya23",
+      "codeforces_handle": "divya_cf",
+      "codechef_handle": "divya_cc",
+      "gfg_handle": "divya_gfg",
+      "github_handle": "divya-dev",
+      "total_solved": 0,
+      "easy_solved": 0,
+      "medium_solved": 0,
+      "hard_solved": 0,
+      "leetcode_rating": 0,
+      "codeforces_rating": 852,
+      "codechef_rating": 0,
+      "contest_rating": 852,
+      "active_days": 0,
+      "current_streak": 0,
+      "leetcode_score": 0.0,
+      "codeforces_score": 426.0,
+      "codechef_score": 0.0,
+      "gfg_score": 0.0,
+      "codolio_score": 0.0,
+      "best_platform_score": 426.0,
+      "average_platform_score": 426.0,
+      "rank_score": 426.0,
+      "github_public_repos": 0,
+      "github_followers": 0,
+      "rank": 2,
+      "sync_status": "Direct-Synced",
+      "errors": "",
+      "last_synced": "2026-09-04T08:10:26.091515+00:00"
     },
     {
       "email": "student07@university.edu",
@@ -81,10 +119,10 @@
       "rank_score": 5.0,
       "github_public_repos": 0,
       "github_followers": 0,
-      "rank": 2,
+      "rank": 3,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-03T08:15:11.381894+00:00"
+      "last_synced": "2026-09-04T08:10:30.594068+00:00"
     },
     {
       "email": "student05@university.edu",
@@ -119,10 +157,10 @@
       "rank_score": 1.0,
       "github_public_repos": 0,
       "github_followers": 0,
-      "rank": 3,
+      "rank": 4,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-03T08:14:58.831616+00:00"
+      "last_synced": "2026-09-04T08:10:27.550453+00:00"
     },
     {
       "email": "student01@university.edu",
@@ -157,10 +195,10 @@
       "rank_score": 0.0,
       "github_public_repos": 0,
       "github_followers": 1,
-      "rank": 4,
+      "rank": 5,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-03T08:14:23.729415+00:00"
+      "last_synced": "2026-09-04T08:10:21.728159+00:00"
     },
     {
       "email": "student02@university.edu",
@@ -195,10 +233,10 @@
       "rank_score": 0.0,
       "github_public_repos": 8,
       "github_followers": 0,
-      "rank": 5,
+      "rank": 6,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-03T08:14:34.966085+00:00"
+      "last_synced": "2026-09-04T08:10:23.374068+00:00"
     },
     {
       "email": "student03@university.edu",
@@ -233,48 +271,10 @@
       "rank_score": 0.0,
       "github_public_repos": 4,
       "github_followers": 0,
-      "rank": 6,
-      "sync_status": "Pending / Missing",
-      "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-03T08:14:36.424276+00:00"
-    },
-    {
-      "email": "student04@university.edu",
-      "username": "Divya Reddy",
-      "roll_number": "23AIML004",
-      "year": "III",
-      "section": "A",
-      "branch": "AIML",
-      "codolio_handle": "divya-reddy",
-      "leetcode_handle": "divya23",
-      "codeforces_handle": "divya_cf",
-      "codechef_handle": "divya_cc",
-      "gfg_handle": "divya_gfg",
-      "github_handle": "divya-dev",
-      "total_solved": 0,
-      "easy_solved": 0,
-      "medium_solved": 0,
-      "hard_solved": 0,
-      "leetcode_rating": 0,
-      "codeforces_rating": 0,
-      "codechef_rating": 0,
-      "contest_rating": 0,
-      "active_days": 0,
-      "current_streak": 0,
-      "leetcode_score": 0.0,
-      "codeforces_score": 0.0,
-      "codechef_score": 0.0,
-      "gfg_score": 0.0,
-      "codolio_score": 0.0,
-      "best_platform_score": 0.0,
-      "average_platform_score": 0.0,
-      "rank_score": 0.0,
-      "github_public_repos": 0,
-      "github_followers": 0,
       "rank": 7,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-03T08:14:47.469929+00:00"
+      "last_synced": "2026-09-04T08:10:24.784755+00:00"
     },
     {
       "email": "student06@university.edu",
@@ -312,7 +312,7 @@
       "rank": 8,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-03T08:15:09.884581+00:00"
+      "last_synced": "2026-09-04T08:10:29.048104+00:00"
     },
     {
       "email": "student09@university.edu",
@@ -350,7 +350,7 @@
       "rank": 9,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-03T08:15:23.941559+00:00"
+      "last_synced": "2026-09-04T08:10:33.444705+00:00"
     },
     {
       "email": "student10@university.edu",
@@ -388,7 +388,7 @@
       "rank": 10,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-03T08:15:35.002717+00:00"
+      "last_synced": "2026-09-04T08:10:34.942793+00:00"
     }
   ]
 }
