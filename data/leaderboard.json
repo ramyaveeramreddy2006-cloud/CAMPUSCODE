@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-10T08:20:23.539102+00:00",
+  "last_updated": "2026-09-11T08:15:03.129018+00:00",
   "total_students": 10,
   "source_status": {
     "usernames.csv": "loaded:10",
@@ -46,7 +46,7 @@
       "rank": 1,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-10T08:20:19.032872+00:00"
+      "last_synced": "2026-09-11T08:14:57.099519+00:00"
     },
     {
       "email": "student04@university.edu",
@@ -84,7 +84,7 @@
       "rank": 2,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-10T08:20:12.759328+00:00"
+      "last_synced": "2026-09-11T08:14:50.481792+00:00"
     },
     {
       "email": "student07@university.edu",
@@ -122,7 +122,7 @@
       "rank": 3,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-10T08:20:17.582965+00:00"
+      "last_synced": "2026-09-11T08:14:55.703680+00:00"
     },
     {
       "email": "student05@university.edu",
@@ -160,7 +160,7 @@
       "rank": 4,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-10T08:20:14.269506+00:00"
+      "last_synced": "2026-09-11T08:14:52.704805+00:00"
     },
     {
       "email": "student01@university.edu",
@@ -198,7 +198,7 @@
       "rank": 5,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-10T08:20:08.390058+00:00"
+      "last_synced": "2026-09-11T08:14:45.944974+00:00"
     },
     {
       "email": "student02@university.edu",
@@ -236,7 +236,7 @@
       "rank": 6,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-10T08:20:09.909043+00:00"
+      "last_synced": "2026-09-11T08:14:47.353755+00:00"
     },
     {
       "email": "student03@university.edu",
@@ -274,7 +274,7 @@
       "rank": 7,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-10T08:20:11.359224+00:00"
+      "last_synced": "2026-09-11T08:14:48.983929+00:00"
     },
     {
       "email": "student06@university.edu",
@@ -312,7 +312,7 @@
       "rank": 8,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-10T08:20:15.995993+00:00"
+      "last_synced": "2026-09-11T08:14:54.153302+00:00"
     },
     {
       "email": "student09@university.edu",
@@ -350,7 +350,7 @@
       "rank": 9,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-10T08:20:20.546106+00:00"
+      "last_synced": "2026-09-11T08:14:59.391316+00:00"
     },
     {
       "email": "student10@university.edu",
@@ -388,7 +388,7 @@
       "rank": 10,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-10T08:20:22.152521+00:00"
+      "last_synced": "2026-09-11T08:15:00.757083+00:00"
     }
   ]
 }
