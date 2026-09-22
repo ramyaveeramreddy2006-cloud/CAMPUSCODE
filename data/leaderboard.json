@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-09-21T09:14:09.791029+00:00",
+  "last_updated": "2026-09-22T08:45:38.165377+00:00",
   "total_students": 10,
   "source_status": {
     "usernames.csv": "loaded:10",
@@ -46,7 +46,7 @@
       "rank": 1,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-21T09:14:06.010364+00:00"
+      "last_synced": "2026-09-22T08:45:33.570380+00:00"
     },
     {
       "email": "student04@university.edu",
@@ -84,45 +84,7 @@
       "rank": 2,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-21T09:14:00.409106+00:00"
-    },
-    {
-      "email": "student07@university.edu",
-      "username": "Gayathri Devi",
-      "roll_number": "23AIML007",
-      "year": "III",
-      "section": "B",
-      "branch": "AIML",
-      "codolio_handle": "gayathri-devi",
-      "leetcode_handle": "gayathri23",
-      "codeforces_handle": "gayathri_cf",
-      "codechef_handle": "gayathri_cc",
-      "gfg_handle": "gayathri_gfg",
-      "github_handle": "gayathri-dev",
-      "total_solved": 3,
-      "easy_solved": 2,
-      "medium_solved": 1,
-      "hard_solved": 0,
-      "leetcode_rating": 0,
-      "codeforces_rating": 0,
-      "codechef_rating": 0,
-      "contest_rating": 0,
-      "active_days": 0,
-      "current_streak": 0,
-      "leetcode_score": 5.0,
-      "codeforces_score": 0.0,
-      "codechef_score": 0.0,
-      "gfg_score": 0.0,
-      "codolio_score": 0.0,
-      "best_platform_score": 5.0,
-      "average_platform_score": 5.0,
-      "rank_score": 5.0,
-      "github_public_repos": 0,
-      "github_followers": 0,
-      "rank": 3,
-      "sync_status": "Direct-Synced",
-      "errors": "",
-      "last_synced": "2026-09-21T09:14:04.666316+00:00"
+      "last_synced": "2026-09-22T08:45:27.544518+00:00"
     },
     {
       "email": "student05@university.edu",
@@ -157,10 +119,10 @@
       "rank_score": 1.0,
       "github_public_repos": 0,
       "github_followers": 0,
-      "rank": 4,
+      "rank": 3,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-09-21T09:14:01.873117+00:00"
+      "last_synced": "2026-09-22T08:45:29.134332+00:00"
     },
     {
       "email": "student01@university.edu",
@@ -195,10 +157,10 @@
       "rank_score": 0.0,
       "github_public_repos": 0,
       "github_followers": 1,
-      "rank": 5,
+      "rank": 4,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-21T09:13:56.340229+00:00"
+      "last_synced": "2026-09-22T08:45:22.373476+00:00"
     },
     {
       "email": "student02@university.edu",
@@ -233,10 +195,10 @@
       "rank_score": 0.0,
       "github_public_repos": 8,
       "github_followers": 0,
-      "rank": 6,
+      "rank": 5,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-21T09:13:57.792630+00:00"
+      "last_synced": "2026-09-22T08:45:24.308109+00:00"
     },
     {
       "email": "student03@university.edu",
@@ -271,10 +233,10 @@
       "rank_score": 0.0,
       "github_public_repos": 4,
       "github_followers": 0,
-      "rank": 7,
+      "rank": 6,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-21T09:13:59.134894+00:00"
+      "last_synced": "2026-09-22T08:45:25.998520+00:00"
     },
     {
       "email": "student06@university.edu",
@@ -309,10 +271,48 @@
       "rank_score": 0.0,
       "github_public_repos": 7,
       "github_followers": 0,
+      "rank": 7,
+      "sync_status": "Pending / Missing",
+      "errors": "Codolio unavailable and direct fallback returned no metrics",
+      "last_synced": "2026-09-22T08:45:30.828752+00:00"
+    },
+    {
+      "email": "student07@university.edu",
+      "username": "Gayathri Devi",
+      "roll_number": "23AIML007",
+      "year": "III",
+      "section": "B",
+      "branch": "AIML",
+      "codolio_handle": "gayathri-devi",
+      "leetcode_handle": "gayathri23",
+      "codeforces_handle": "gayathri_cf",
+      "codechef_handle": "gayathri_cc",
+      "gfg_handle": "gayathri_gfg",
+      "github_handle": "gayathri-dev",
+      "total_solved": 0,
+      "easy_solved": 0,
+      "medium_solved": 0,
+      "hard_solved": 0,
+      "leetcode_rating": 0,
+      "codeforces_rating": 0,
+      "codechef_rating": 0,
+      "contest_rating": 0,
+      "active_days": 0,
+      "current_streak": 0,
+      "leetcode_score": 0.0,
+      "codeforces_score": 0.0,
+      "codechef_score": 0.0,
+      "gfg_score": 0.0,
+      "codolio_score": 0.0,
+      "best_platform_score": 0.0,
+      "average_platform_score": 0.0,
+      "rank_score": 0.0,
+      "github_public_repos": 0,
+      "github_followers": 0,
       "rank": 8,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-21T09:14:03.157428+00:00"
+      "last_synced": "2026-09-22T08:45:32.133768+00:00"
     },
     {
       "email": "student09@university.edu",
@@ -350,7 +350,7 @@
       "rank": 9,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-21T09:14:07.252413+00:00"
+      "last_synced": "2026-09-22T08:45:35.110157+00:00"
     },
     {
       "email": "student10@university.edu",
@@ -388,7 +388,7 @@
       "rank": 10,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-09-21T09:14:08.433956+00:00"
+      "last_synced": "2026-09-22T08:45:36.637352+00:00"
     }
   ]
 }
