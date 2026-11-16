@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-15T11:23:06.062189+00:00",
+  "last_updated": "2026-11-16T11:55:50.271916+00:00",
   "total_students": 10,
   "source_status": {
     "usernames.csv": "loaded:10",
@@ -46,7 +46,7 @@
       "rank": 1,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-11-15T11:23:01.306061+00:00"
+      "last_synced": "2026-11-16T11:55:45.472606+00:00"
     },
     {
       "email": "student04@university.edu",
@@ -84,7 +84,7 @@
       "rank": 2,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-11-15T11:22:55.298823+00:00"
+      "last_synced": "2026-11-16T11:55:39.166249+00:00"
     },
     {
       "email": "student01@university.edu",
@@ -104,25 +104,25 @@
       "medium_solved": 0,
       "hard_solved": 0,
       "leetcode_rating": 0,
-      "codeforces_rating": 509,
+      "codeforces_rating": 837,
       "codechef_rating": 0,
-      "contest_rating": 509,
+      "contest_rating": 837,
       "active_days": 0,
       "current_streak": 0,
       "leetcode_score": 0.0,
-      "codeforces_score": 254.5,
+      "codeforces_score": 418.5,
       "codechef_score": 0.0,
       "gfg_score": 0.0,
       "codolio_score": 0.0,
-      "best_platform_score": 254.5,
-      "average_platform_score": 254.5,
-      "rank_score": 254.5,
+      "best_platform_score": 418.5,
+      "average_platform_score": 418.5,
+      "rank_score": 418.5,
       "github_public_repos": 0,
       "github_followers": 1,
       "rank": 3,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-11-15T11:22:50.810030+00:00"
+      "last_synced": "2026-11-16T11:55:34.153019+00:00"
     },
     {
       "email": "student07@university.edu",
@@ -160,7 +160,7 @@
       "rank": 4,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-11-15T11:22:59.801286+00:00"
+      "last_synced": "2026-11-16T11:55:43.900762+00:00"
     },
     {
       "email": "student05@university.edu",
@@ -198,7 +198,7 @@
       "rank": 5,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-11-15T11:22:56.769281+00:00"
+      "last_synced": "2026-11-16T11:55:40.731303+00:00"
     },
     {
       "email": "student02@university.edu",
@@ -236,7 +236,7 @@
       "rank": 6,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-15T11:22:52.384548+00:00"
+      "last_synced": "2026-11-16T11:55:35.915774+00:00"
     },
     {
       "email": "student03@university.edu",
@@ -274,7 +274,7 @@
       "rank": 7,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-15T11:22:53.856831+00:00"
+      "last_synced": "2026-11-16T11:55:37.559896+00:00"
     },
     {
       "email": "student06@university.edu",
@@ -312,7 +312,7 @@
       "rank": 8,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-15T11:22:58.287686+00:00"
+      "last_synced": "2026-11-16T11:55:42.359333+00:00"
     },
     {
       "email": "student09@university.edu",
@@ -350,7 +350,7 @@
       "rank": 9,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-15T11:23:02.887288+00:00"
+      "last_synced": "2026-11-16T11:55:47.232094+00:00"
     },
     {
       "email": "student10@university.edu",
@@ -388,7 +388,7 @@
       "rank": 10,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-15T11:23:04.535100+00:00"
+      "last_synced": "2026-11-16T11:55:48.696670+00:00"
     }
   ]
 }
