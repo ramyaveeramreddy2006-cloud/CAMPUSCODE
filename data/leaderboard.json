@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "last_updated": "2026-11-27T12:58:35.899264+00:00",
+  "last_updated": "2026-11-28T12:10:51.246931+00:00",
   "total_students": 10,
   "source_status": {
     "usernames.csv": "loaded:10",
@@ -46,7 +46,45 @@
       "rank": 1,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-11-27T12:58:31.734575+00:00"
+      "last_synced": "2026-11-28T12:10:47.427605+00:00"
+    },
+    {
+      "email": "student01@university.edu",
+      "username": "Arjun Reddy",
+      "roll_number": "23AIML001",
+      "year": "III",
+      "section": "A",
+      "branch": "AIML",
+      "codolio_handle": "arjun-reddy",
+      "leetcode_handle": "arjun23",
+      "codeforces_handle": "arjun_cf",
+      "codechef_handle": "arjun_cc",
+      "gfg_handle": "arjun_gfg",
+      "github_handle": "arjun-dev",
+      "total_solved": 0,
+      "easy_solved": 0,
+      "medium_solved": 0,
+      "hard_solved": 0,
+      "leetcode_rating": 0,
+      "codeforces_rating": 1177,
+      "codechef_rating": 0,
+      "contest_rating": 1177,
+      "active_days": 0,
+      "current_streak": 0,
+      "leetcode_score": 0.0,
+      "codeforces_score": 588.5,
+      "codechef_score": 0.0,
+      "gfg_score": 0.0,
+      "codolio_score": 0.0,
+      "best_platform_score": 588.5,
+      "average_platform_score": 588.5,
+      "rank_score": 588.5,
+      "github_public_repos": 0,
+      "github_followers": 1,
+      "rank": 2,
+      "sync_status": "Direct-Synced",
+      "errors": "",
+      "last_synced": "2026-11-28T12:10:38.180549+00:00"
     },
     {
       "email": "student04@university.edu",
@@ -81,48 +119,10 @@
       "rank_score": 426.0,
       "github_public_repos": 0,
       "github_followers": 0,
-      "rank": 2,
-      "sync_status": "Direct-Synced",
-      "errors": "",
-      "last_synced": "2026-11-27T12:58:25.262135+00:00"
-    },
-    {
-      "email": "student01@university.edu",
-      "username": "Arjun Reddy",
-      "roll_number": "23AIML001",
-      "year": "III",
-      "section": "A",
-      "branch": "AIML",
-      "codolio_handle": "arjun-reddy",
-      "leetcode_handle": "arjun23",
-      "codeforces_handle": "arjun_cf",
-      "codechef_handle": "arjun_cc",
-      "gfg_handle": "arjun_gfg",
-      "github_handle": "arjun-dev",
-      "total_solved": 0,
-      "easy_solved": 0,
-      "medium_solved": 0,
-      "hard_solved": 0,
-      "leetcode_rating": 0,
-      "codeforces_rating": 837,
-      "codechef_rating": 0,
-      "contest_rating": 837,
-      "active_days": 0,
-      "current_streak": 0,
-      "leetcode_score": 0.0,
-      "codeforces_score": 418.5,
-      "codechef_score": 0.0,
-      "gfg_score": 0.0,
-      "codolio_score": 0.0,
-      "best_platform_score": 418.5,
-      "average_platform_score": 418.5,
-      "rank_score": 418.5,
-      "github_public_repos": 0,
-      "github_followers": 1,
       "rank": 3,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-11-27T12:58:19.768479+00:00"
+      "last_synced": "2026-11-28T12:10:42.220065+00:00"
     },
     {
       "email": "student07@university.edu",
@@ -160,7 +160,7 @@
       "rank": 4,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-11-27T12:58:30.405398+00:00"
+      "last_synced": "2026-11-28T12:10:46.152458+00:00"
     },
     {
       "email": "student05@university.edu",
@@ -198,7 +198,7 @@
       "rank": 5,
       "sync_status": "Direct-Synced",
       "errors": "",
-      "last_synced": "2026-11-27T12:58:26.692447+00:00"
+      "last_synced": "2026-11-28T12:10:43.393562+00:00"
     },
     {
       "email": "student02@university.edu",
@@ -236,7 +236,7 @@
       "rank": 6,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-27T12:58:22.044948+00:00"
+      "last_synced": "2026-11-28T12:10:39.661953+00:00"
     },
     {
       "email": "student03@university.edu",
@@ -274,7 +274,7 @@
       "rank": 7,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-27T12:58:23.515834+00:00"
+      "last_synced": "2026-11-28T12:10:40.902597+00:00"
     },
     {
       "email": "student06@university.edu",
@@ -312,7 +312,7 @@
       "rank": 8,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-27T12:58:28.010700+00:00"
+      "last_synced": "2026-11-28T12:10:44.805818+00:00"
     },
     {
       "email": "student09@university.edu",
@@ -350,7 +350,7 @@
       "rank": 9,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-27T12:58:33.168120+00:00"
+      "last_synced": "2026-11-28T12:10:48.665010+00:00"
     },
     {
       "email": "student10@university.edu",
@@ -388,7 +388,7 @@
       "rank": 10,
       "sync_status": "Pending / Missing",
       "errors": "Codolio unavailable and direct fallback returned no metrics",
-      "last_synced": "2026-11-27T12:58:34.635478+00:00"
+      "last_synced": "2026-11-28T12:10:50.057125+00:00"
     }
   ]
 }
